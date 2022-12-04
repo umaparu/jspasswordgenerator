@@ -25,54 +25,26 @@ The following image shows the web application's appearance and functionality:
   * Code should validate for each input and at least one character type should be selected
   * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
 
-## Grading Requirements
+### Deployment URL 
 
-This challenge is graded based on the following criteria: 
+The deployed application can be accessed using below URL 
 
-### Technical Acceptance Criteria: 40%
+https://umaparu.github.io/jspasswordgenerator/
 
-* Satisfies all of the above acceptance criteria plus the following:
+### Screenshots
 
-  * The challenge should not produce any errors in the console when you inspect it using Chrome DevTools.
+The home page of Password Generator
+![The home page of Password Generator .](assets/home.png)
 
-### Deployment: 32%
+Prompt for length
+![Prompt for length .](assets/lengthprompt.png)
 
-* Application deployed at live URL.
+Prompt for lower case characters
+![Prompt for lower case characters .](assets/lowercaseprompt.png)
 
-* Application loads with no errors.
+Generated Password
+![Generated Password .](assets/password.png)
 
-* Application GitHub URL submitted.
-
-* GitHub repository that contains application code.
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate.
-
-* Application user interface style is clean and polished.
-
-* Application resembles the mock-up functionality provided in the challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
-
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
 ---
 
